@@ -1,0 +1,1 @@
+Repositorio contendo todos os exemplos e notas para o GitHub Actions

@@ -3,7 +3,7 @@ on:
   push:
   pull_request:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *' # Exemplo: Roda à meia-noite todos os dias
   workflow_dispatch:
 
 jobs:
